@@ -1,0 +1,47 @@
+.navbar-nav {font-family: 'Righteous', cursive;
+}
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+  }
+
+body   {
+    margin-top: 200px;
+}
+
+.card-img {
+    overflow: hidden;
+}
+.card-img img {
+    transition: all 1.3s ease;
+}
+.card-img:hover img {
+    transform: scale(1.2);
+}
+.text {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h1 {font-family: 'Righteous', cursive;
+  }
+  
+  h2 {font-family: 'Righteous', cursive;
+    text-align: center;
+  }
+  
+  h5 {font-family: 'Righteous', cursive;
+  }
+  
+  h6 {font-family: 'Righteous', cursive;
+  }

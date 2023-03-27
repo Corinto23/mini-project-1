@@ -1,0 +1,71 @@
+.navbar-nav {font-family: 'Righteous', cursive;
+}
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+  }
+  
+  #back-to-top:hover {
+    background-color: #555;
+  }
+
+  .card-text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {font-family: 'Righteous', cursive;
+}
+
+h2 {font-family: 'Righteous', cursive;
+  text-align: center;
+}
+
+h5 {font-family: 'Righteous', cursive;
+}
+
+h6 {font-family: 'Righteous', cursive;
+}
+
+.nav-item:hover {
+  background-color: #6c757d;
+}
+
+.dropdown-menu a:hover {
+  background-color: #6c757d; /* Change this to the desired color */
+  color: #212529; /* Change this to the desired text color */
+}
+.card {
+  padding: 16px;
+  background-color:#ffffff;
+  margin-bottom: 14px;
+}
+
+
+
+@media (min-width: 1025px) {
+  .bk-img {
+    width: 50%;
+  }
+  
+}
+
+/* @media (min-width:769px) {
+    .card-text {
+      font-size: 2vw;
+    }
+  } */
